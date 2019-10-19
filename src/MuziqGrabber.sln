@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuziqGrabber.Core", "MuziqGrabber.Core\MuziqGrabber.Core.csproj", "{FE6E6303-4603-4CEB-A448-2511BA319C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuziqGrabber.Providers.BirMuziq", "MuziqGrabber.Providers.BirMuziq\MuziqGrabber.Providers.BirMuziq.csproj", "{9F325C6B-0895-4C53-83A4-BC37191A97D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuziqGrabber.Build", "MuziqGrabber.Build\MuziqGrabber.Build.csproj", "{10CC8316-CC43-437C-830A-178150E4E110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuziqGrabber.Resources", "MuziqGrabber.Resources\MuziqGrabber.Resources.csproj", "{EF894A3B-CD39-4B38-A102-635AC831EB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuziqGrabber.WpfClient", "MuziqGrabber.WpfClient\MuziqGrabber.WpfClient.csproj", "{D7304A7B-A4FD-4DF1-81B0-EC5A7DC462BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6E6303-4603-4CEB-A448-2511BA319C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6E6303-4603-4CEB-A448-2511BA319C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6E6303-4603-4CEB-A448-2511BA319C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6E6303-4603-4CEB-A448-2511BA319C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F325C6B-0895-4C53-83A4-BC37191A97D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F325C6B-0895-4C53-83A4-BC37191A97D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F325C6B-0895-4C53-83A4-BC37191A97D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F325C6B-0895-4C53-83A4-BC37191A97D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CC8316-CC43-437C-830A-178150E4E110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CC8316-CC43-437C-830A-178150E4E110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CC8316-CC43-437C-830A-178150E4E110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CC8316-CC43-437C-830A-178150E4E110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF894A3B-CD39-4B38-A102-635AC831EB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF894A3B-CD39-4B38-A102-635AC831EB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF894A3B-CD39-4B38-A102-635AC831EB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF894A3B-CD39-4B38-A102-635AC831EB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7304A7B-A4FD-4DF1-81B0-EC5A7DC462BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7304A7B-A4FD-4DF1-81B0-EC5A7DC462BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7304A7B-A4FD-4DF1-81B0-EC5A7DC462BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7304A7B-A4FD-4DF1-81B0-EC5A7DC462BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
